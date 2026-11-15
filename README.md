@@ -1,8 +1,10 @@
 **Bank Fraud Transactions Analysis**
+
 A data analytics project where I analyzed bank transaction data to understand where, when, and how fraud happens, and built an interactive Power BI dashboard to present the findings.
 
 
 **About the Project**
+
 Banks process thousands of transactions every day, and a small share of them are fraudulent. The challenge is that fraud is hidden inside a huge amount of normal data, so it is hard to see which devices, locations, categories, or time periods are the riskiest.
 In this project I took a dataset of 200K customers and analyzed it using SQL, Python, and Power BI to find clear fraud patterns that a fraud or risk team could act on.
 
@@ -35,11 +37,11 @@ Fraud peaks around late morning (11:55 AM), so monitoring can be stronger during
 Victims are mostly middle-aged (average 44), but all adult age groups are affected.
 Daily fraud stays between roughly 290 and 380 cases in January 2025 with no single extreme spike.
 
-Recommendations (based on the data)
+**Recommendations**
 
-Add stronger verification (PIN + OTP, transaction limits) on ATM kiosks and self-service machines.
-Increase real-time monitoring during peak fraud hours.
-Run awareness campaigns for all age groups instead of targeting a single group.
+1) Add stronger verification (PIN + OTP, transaction limits) on ATM kiosks and self-service machines.
+2) Increase real-time monitoring during peak fraud hours.
+3) Run awareness campaigns for all age groups instead of targeting a single group.
 
 **Tools Used**
 SQL: Business queries
