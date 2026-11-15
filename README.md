@@ -62,4 +62,4 @@ The dashboard includes a fraud trend line, top 5 devices, transaction type split
 Source: Kaggle
 
 **Author**
-Sarthak Ahuja | linkdin - www.linkedin.com/in/sarthakahuja735
+Sarthak Ahuja | linkdin - www.linkedin.com/in/sarthakahuja735 
